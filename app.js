@@ -1,7 +1,7 @@
 var express      = require('express');
 
 //const SequelizeStore = require('sequelize-session-store')(session);
-
+//notes
 var app = express();
 app.set('view engine', 'ejs');
 
